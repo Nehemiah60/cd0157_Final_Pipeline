@@ -1,5 +1,5 @@
 # Purpose of This Repo
-JUST SOME DUMMY CHANGES!!
+JUST SOME DUMMY CHANGES to TEST MY CI/CD Pipeline!!
 
 This repos has a sample "Hello World" flask application that we will deploy on EKS cluster using the AWS Codebuild and Codepipeline services. 
 Here is the purpose of each file present in this repo:
